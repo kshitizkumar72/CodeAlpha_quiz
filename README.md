@@ -1,0 +1,1 @@
+This code provides a simple command-line interface for users to interact with the banking application. Users can choose options to deposit money, withdraw money, check their balance, or exit the program. The program continuously runs until the user chooses to exit.
